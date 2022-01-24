@@ -3,7 +3,6 @@ import {
   Routes,
   Route
 } from 'react-router-dom';
-
 import AllMeetups from './pages/AllMeetups';
 import Favorites from './pages/Favorites';
 import NewMeetup from './pages/NewMeetup';
