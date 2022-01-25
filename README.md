@@ -10,6 +10,10 @@ Run `npm start` for a dev server. Navigate to `http://localhost:3000/`. The app 
 
 Run `npm run build` to build the project. The build artifacts will be stored in the `build/` directory.
 
+## DB
+
+Data is stored in Google Firebase [Realtime Database](https://console.firebase.google.com/project/react-meetup-app-b7e5c/database/react-meetup-app-b7e5c-default-rtdb/data).
+
 
 ## App Snapsorts
 ![All Meetups Page](https://github.com/vishal002/meetup-app/blob/master/src/img/demo_all_meetups_page.jpg?raw=true)
