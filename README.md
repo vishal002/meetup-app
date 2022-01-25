@@ -1,16 +1,17 @@
 # Meetup App
 
-This project was generated with [Create React App]() version 6.0.8.
+This project was generated with [Create React App](https://reactjs.org/docs/create-a-new-react-app.html) version 17.0.1.
 
 ## Development server
 
-Run `npm start` for a dev server. Navigate to `http://localhost:3000/`. The app will automatically reload if you change any of the source files. <br>
-To fetch JSON data, run `$node server.js` inside the nodejs_server folder.
+Run `npm start` for a dev server. Navigate to `http://localhost:3000/`. The app will automatically reload if you change any of the source files.
 
 ## Build
 
-Run `npm build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Run `npm run build` to build the project. The build artifacts will be stored in the `build/` directory.
+
 
 ## App Snapsorts
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/vishal002/meetup-app/blob/master/src/img/demo_all_meetups_page.jpg?raw=true)
+![All Meetups Page](https://github.com/vishal002/meetup-app/blob/master/src/img/demo_all_meetups_page.jpg?raw=true)
+![Add New Meetups Page](https://github.com/vishal002/meetup-app/blob/master/src/img/demo_add_new_meetups_page.jpg?raw=true)
+![My Favorites Page](https://github.com/vishal002/meetup-app/blob/master/src/img/demo_my_favorites_page.jpg?raw=true)
